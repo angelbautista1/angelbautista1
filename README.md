@@ -9,6 +9,9 @@
 
 - [Exterro ACE]
 
+<h2> Python Projects:</h2>
+
+- [Rock Paper Scissors Project](https://github.com/angelbautista1/Rock-Paper-Scissors-Project)
 
 <!--
 **angelbautista1/angelbautista1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
