@@ -7,7 +7,7 @@
 
 <h2> Certifications</h2>
 
-- [FTK]
+- [Exterro ACE]
 
 
 <!--
