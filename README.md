@@ -9,10 +9,6 @@
 
 - [FTK]
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Guide - Active Directory Home Lab](Youtube URL)
-
 
 <!--
 **angelbautista1/angelbautista1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
