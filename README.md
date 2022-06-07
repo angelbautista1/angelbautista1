@@ -13,6 +13,10 @@
 
 - [Rock Paper Scissors Project](https://github.com/angelbautista1/Rock-Paper-Scissors-Project)
 
+<h2> Extra Work:</h2>
+
+- [NICE Challenge](https://github.com/angelbautista1/NICE-Challenge-)
+
 <!--
 **angelbautista1/angelbautista1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
