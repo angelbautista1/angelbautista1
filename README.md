@@ -7,7 +7,7 @@
 
 <h2> Certifications</h2>
 
-- [Exterro ACE]
+- Exterro ACE
 
 <h2> Python Projects:</h2>
 
